@@ -1,6 +1,12 @@
 {
   "name": "docker-express-create-react-app",
   "version": "0.1.0",
+  "description": "A sample boilerplate for node, express, react, react-router, react-storybook and Docker",
+  "author": "David R Poindexter III <drpoindexter+docker-cra-feedback@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mtheoryx/docker-express-create-react-app.git"
+  },
   "private": true,
   "dependencies": {
     "react": "^15.4.2",
