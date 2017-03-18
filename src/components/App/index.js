@@ -5,7 +5,10 @@ const Home = () => <h1>Home</h1>;
 
 const App = () => (
     <Router>
-        <Route path="/" component={Home}/>
+        <div>
+            <Route exact path="/" component={Home}/>
+            <Route path="/about" component={Home}/>
+        </div>
     </Router>
 );
 
