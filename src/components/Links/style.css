@@ -1,0 +1,10 @@
+.Links a {
+	margin: 5px;
+}
+.Links a,
+.Links a:visited {
+	color: blue;
+}
+.Links a.active {
+	color: red;
+}
