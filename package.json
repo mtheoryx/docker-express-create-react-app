@@ -16,6 +16,7 @@
     "eject": "react-scripts eject"
   },
   "dependencies": {
+    "compression": "1.6.2",
     "express": "4.15.2",
     "morgan": "1.8.1",
     "react": "^15.4.2",
